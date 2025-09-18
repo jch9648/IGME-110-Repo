@@ -15,3 +15,4 @@
 ---
 ## Hypertext Link:
 https://www.rit.edu/
+[RIT](https://www.rit.edu/)
