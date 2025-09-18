@@ -12,3 +12,6 @@
 - Thing one
 - Thing Two
 - Thing Three
+---
+## Hypertext Link:
+https://www.rit.edu/
