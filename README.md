@@ -3,3 +3,12 @@
 ## Heading 2
 ### Heading 3
 ---
+## Ordered List:
+1. Thing One
+2. Thing Two
+3. Thing Three
+---
+## Unordered List:
+- Thing one
+- Thing Two
+- Thing Three
