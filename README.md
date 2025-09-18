@@ -15,3 +15,6 @@
 ---
 ## Hypertext Link:
 [RIT](https://www.rit.edu/)
+---
+## Image Link:
+<img width="473" height="473" alt="image" src="https://github.com/user-attachments/assets/ebc21542-8e4d-4534-b07b-9c9c72b47fca" />
