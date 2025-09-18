@@ -1,7 +1,6 @@
 # My list of places I like to go
 ---
 ## Some links to cool games
----
 - [2048](https://play2048.co/)
 - [Sand Tetris](https://sandtris.com/)
 - [Mari0](https://tannerrogalsky.com/mari0/)
